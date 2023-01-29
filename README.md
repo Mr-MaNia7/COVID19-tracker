@@ -4,4 +4,4 @@ A web crawler with Python to obtain COVID-19 data from the Worldometers Website.
  * Dataset: https://www.worldometers.info/coronavirus/
 
 # Visualised data
-/screenshots/crawler.png
+![This is an image](/screenshots/crawler.png)
